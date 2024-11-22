@@ -11,7 +11,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/31ggyhkj7nffcx6ueomgphe3eylu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ggyhkj7nffcx6ueomgphe3eylu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -23,8 +27,24 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img src="https://raw.githubusercontent.com/valenbotero14/valenbotero14/output/snake.svg" alt="Snake animation" />
+###
+
+<img align="right" src="https://profile-counter.glitch.me/valenbotero14/count.svg?"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
 ###
